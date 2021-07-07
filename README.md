@@ -10,3 +10,5 @@ A very simple framework on top of Java Servlets to create simple web apps. It pr
 - EULA
 - Service APIs for Adminisrative UI
 - Service APIs for User Login/Logout
+
+See https://github.com/CapsicoHealth/Wanda/wiki for tutorials and samples.
